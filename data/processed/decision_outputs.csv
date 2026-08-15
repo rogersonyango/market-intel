@@ -1,0 +1,31 @@
+market,commodity,as_of_date,target_date,data_age_months,current_price,forecast_price,forecast_source,sell_signal,sell_confidence,best_market,price_gap_pct,demand_index,demand_level,anomaly_flag
+Iganga,Beans,2025-12-15,2026-07-15,7,3289.0,3375.300048828125,model,hold,0.08746331086259755,Kasese,52.0,0.49980582,Moderate,False
+Iganga,Cassava Flour,2025-12-15,2026-07-15,7,1300.0,1300.0,baseline,hold,0.0,Gulu,189.2,0.684032396,Moderate,False
+Iganga,Maize (White),2025-12-15,2026-07-15,7,1533.0,1212.0999755859375,model,sell_now,0.6977604357774788,Mbarara,60.9,0.441706318,Low,False
+Iganga,Maize Flour,2025-12-15,2026-07-15,7,2078.0,2118.39990234375,model,hold,0.06480574646094,Kyangwali (Refugee Settlement),68.4,0.581353927,Moderate,False
+Iganga,Millet,2025-12-15,2026-07-15,7,2856.0,2856.0,baseline,hold,0.0,Fort Portal,92.6,0.462447755,Low,False
+Iganga,Sorghum,2025-12-15,2026-07-15,7,1844.0,1901.5999755859375,model,wait,0.10412143092179592,Mukono,126.9,0.462882307,Moderate,False
+Jinja,Beans,2026-04-15,2026-07-15,3,4211.0,4211.0,baseline,hold,0.0,Kasese,18.7,0.389424434,Low,False
+Jinja,Cassava Flour,2026-04-15,2026-07-15,3,1724.0,1724.0,baseline,hold,0.0,Gulu,118.1,0.514110212,Low,False
+Jinja,Maize (White),2025-12-15,2026-07-15,7,1863.0,1863.0,baseline,hold,0.0,Mbarara,32.4,0.364410585,Low,False
+Jinja,Maize Flour,2026-04-15,2026-07-15,3,2533.0,2533.0,baseline,hold,0.0,Kyangwali (Refugee Settlement),38.2,0.475357454,Low,False
+Jinja,Millet,2025-12-15,2026-07-15,7,3000.0,2865.39990234375,model,sell_now,0.1495556640625,Fort Portal,83.3,0.44050431,Low,False
+Jinja,Sorghum,2025-11-15,2026-07-15,8,2000.0,2000.0,baseline,hold,0.0,Mukono,109.2,0.427237532,Low,False
+Lira,Beans,2025-12-15,2026-07-15,7,3500.0,3508.39990234375,model,hold,0.00799990699404762,Kasese,42.9,0.470024688,Low,False
+Lira,Cassava Flour,2025-12-15,2026-07-15,7,2200.0,1894.0,model,sell_now,0.4636363636363637,Gulu,70.9,0.406095876,Low,False
+Lira,Maize (White),2025-12-15,2026-07-15,7,920.0,1106.699951171875,model,wait,0.6764490984488225,Mbarara,168.2,0.732461246,High,False
+Lira,Maize Flour,2025-12-15,2026-07-15,7,1740.0,1917.0,model,wait,0.3390804597701149,Kyangwali (Refugee Settlement),101.1,0.693175309,High,False
+Lira,Millet,2025-12-15,2026-07-15,7,2500.0,2215.89990234375,model,sell_now,0.37880013020833336,Fort Portal,120.0,0.527546641,Moderate,False
+Lira,Sorghum,2025-12-15,2026-07-15,7,920.0,920.0,baseline,hold,0.0,Mukono,354.8,0.92185348,High,False
+Mbarara,Beans,2026-04-15,2026-07-15,3,3604.0,3604.0,baseline,hold,0.0,Kasese,38.7,0.454408865,Low,False
+Mbarara,Cassava Flour,2026-04-15,2026-07-15,3,1972.0,1972.0,baseline,hold,0.0,Gulu,90.7,0.449681916,Low,False
+Mbarara,Maize (White),2025-12-15,2026-07-15,7,2467.0,2467.0,baseline,hold,0.0,Mbarara,0.0,0.276497903,Low,False
+Mbarara,Maize Flour,2026-04-15,2026-07-15,3,3000.0,3000.0,baseline,hold,0.0,Kyangwali (Refugee Settlement),16.7,0.401844584,Low,False
+Mbarara,Millet,2025-12-15,2026-07-15,7,4011.0,4011.0,baseline,hold,0.0,Fort Portal,37.1,0.330806233,Low,False
+Mbarara,Sorghum,2025-12-15,2026-07-15,7,3944.0,3944.0,baseline,hold,0.0,Mukono,6.1,0.219559031,Low,False
+Owino,Beans,2026-04-15,2026-07-15,3,4514.0,4245.60009765625,model,sell_now,0.1981981260845887,Kasese,10.8,0.363525226,Low,False
+Owino,Cassava Flour,2026-04-15,2026-07-15,3,1986.0,1986.0,baseline,hold,0.0,Gulu,89.3,0.446524651,Low,False
+Owino,Maize (White),2025-04-15,2026-07-15,15,2092.0,1394.199951171875,model,sell_now,1.0,Mbarara,17.9,0.326944968,Low,False
+Owino,Maize Flour,2026-04-15,2026-07-15,3,2720.0,2720.0,baseline,hold,0.0,Kyangwali (Refugee Settlement),28.7,0.442890582,Low,False
+Owino,Millet,2025-04-15,2026-07-15,15,4707.0,4707.0,baseline,hold,0.0,Fort Portal,16.8,0.283608203,Low,False
+Owino,Sorghum,2025-04-15,2026-07-15,15,4184.0,4184.0,baseline,hold,0.0,Mukono,0.0,0.208254435,Low,False

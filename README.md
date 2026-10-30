@@ -1,6 +1,6 @@
 # Uganda Market Intelligence
 
-A crop price forecasting and advisory dashboard for Ugandan smallholder farmers. It turns historical market prices (WFP), weather, and a forecasting model into plain sell/hold advice per crop and market — including which market pays best, current demand, and how stale the underlying data is.
+A crop price forecasting and advisory dashboard for Ugandan smallholder farmers. It turns historical market prices (World Food Program dataset), weather, and a forecasting model into plain sell/hold advice per crop and market — including which market pays best, current demand, and how stale the underlying data is.
 
 **Live app:** _add your Streamlit URL here after deploying_
 
